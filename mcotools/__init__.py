@@ -8,4 +8,4 @@ if isfile(version_file):
         __version__ = version_file.read().strip()
     
 def main():
-    print("ello")
+    print("ello main")
